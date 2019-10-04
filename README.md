@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Rename
+
 # This is a title. 
 memo notes
 
@@ -6,3 +7,4 @@ memo notes
 ## by Natasha and Emily
 but we are trying
 !!!!!
+
